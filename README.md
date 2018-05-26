@@ -1,2 +1,3 @@
 # Dictionary
-Python based Dictionary importing JSON type
+Python based Dictionary importing JSON DATAtype
+
